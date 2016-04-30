@@ -7,3 +7,4 @@
 - Git is good! 
 - Sunrise! 
 - Do something cool in dev
+- Today is the right day.
