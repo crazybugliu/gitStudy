@@ -6,3 +6,4 @@
 - And this is write in master branch.
 - Git is good! 
 - Sunrise! 
+- This is the bug fixed in issue-101 branch
