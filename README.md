@@ -8,3 +8,4 @@
 - Sunrise! 
 - Do something cool in dev
 - Today is the right day.
+- This is the bug fixed in issue-101 branch
